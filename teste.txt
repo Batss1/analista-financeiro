@@ -1,0 +1,4 @@
+ROE em 2023
+ROE
+Huawei,Apple,Samsumg,Xiaomi
+20,90,18,15
